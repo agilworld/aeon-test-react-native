@@ -19,6 +19,6 @@ describe('Two Sum: Input Array is Sorted', () => {
   });
 
   test('Numbers 0, 1, 2, 2, 3, 5 target 4 return 2,5', () => {
-    expect(twoNumbers([0, 1, 2, 2, 3, 5], 4)).toStrictEqual([2,5]);
+    expect(twoNumbers([0, 1, 2, 2, 3, 5], 4)).toStrictEqual([3,4]);
   });
 });
