@@ -27,7 +27,7 @@ Code challenge #1 under `app/index.tsx`
 
 Code challenge #2 you can see `components/navbar/Header.tsx`
 
-to check mobile view of challenge #2, please open inspector, jump to Three dots button, select More tools menu, find out Network Conditions menu. In User Agent section, you can select user agent to iphone or android to simulate mobile view
+to check mobile view of **challenge #2**, please open inspector, jump to Three dots button, select More tools menu, find out Network Conditions menu. In User Agent section, you can select user agent to iphone or android to simulate mobile view
 
 ## Challenge #3
 
